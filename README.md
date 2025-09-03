@@ -52,10 +52,15 @@ CSS / Bootstrap / Tailwind (choose what you used) – Styling
 
 git clone https://github.com/abhishekthatoju04/Jamie-Weather-.git
 Navigate into the project:
+
 cd Jamie-Weather-
+
 Install dependencies:
+
 npm install
+
 Start the development server:
+
 npm start
 
 ---
